@@ -1,1 +1,4 @@
 # DEATH-YOU
+
+
+cd DEATH-YOU
